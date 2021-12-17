@@ -1,0 +1,11 @@
+.container{
+    margin-top:5%;  
+    font-size: 17px;
+}
+.form-group{
+ padding:10px;
+}
+.form-control{
+    font-weight: bold;
+    font-size: 17px;
+}
